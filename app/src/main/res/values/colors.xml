@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22273d</color>
+    <color name="colorPrimaryLight">#A7A7A8</color>
+    <color name="colorPrimaryDark">#171e31</color>
+
+    <color name="color_1">#283046</color>
+    <color name="color_2">#675dd4</color>
+
+    <color name="dark_1">#22273d</color>
+
+    <color name="transparent">#00ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="white_aa">#aaffffff</color>
+    <color name="white_60">#60ffffff</color>
+    <color name="white_30">#30ffffff</color>
+    <color name="white_dim">#eaebf0</color>
+    <color name="white_dd">#d0d2d6</color>
+
+    <color name="black">#000000</color>
+    <color name="black_90">#90000000</color>
+    <color name="black_9A">#9A000000</color>
+    <color name="black_70">#70000000</color>
+    <color name="black_50">#50000000</color>
+    <color name="black_30">#30000000</color>
+    <color name="black_aa">#AA000000</color>
+    <color name="veryDark">#090909</color>
+
+    <color name="green_1">#1cc587</color>
+    <color name="green_2">#388e3c</color>
+    <color name="fb_color">#3c5b9b</color>
+    <color name="red_1">#ff0000</color>
+    <color name="red_2">#ca0000</color>
+    <color name="red_3">#EC6758</color>
+    <color name="red_4">#F5424B</color>
+    <color name="pink">#d84595</color>
+
+    <color name="gray">#cccccc</color>
+    <color name="gray_2">#526687</color>
+    <color name="gray_3">#F5F5F5</color>
+    <color name="gray_4">#D9D9D9</color>
+
+    <color name="blue_1">#00367c</color>
+    <color name="blue_2">#3d60c6</color>
+    <color name="blue_3">#536ce3</color>
+    <color name="blue_4">#01b1ec</color>
+    <color name="blue_5">#0096cf</color>
+    <color name="blue_6">#4990e2</color>
+    <color name="blue_7">#7ACCC8</color>
+    <color name="blue_8">#30BEC0</color>
+
+    <color name="yellow_1">#ff8318</color>
+    <color name="yellow_2">#ffc95c</color>
+    <color name="yellow_3">#FDC54C</color>
+
+    <color name="violet_1">#6c2be7</color>
+    <color name="violet_2">#3a0b99</color>
+    <color name="violet_3">#511abd</color>
+
+
+    <color name="epg_background">#4C4C4C</color>
+    <color name="epg_time_background">#000000</color>
+    <color name="epg_time_divider_color">#FFFFFF</color>
+    <color name="epg_activity_bg">#0A1117</color>
+    <color name="epg_channel_layout_background">#000000</color>
+    <color name="epg_event_layout_background">#000000</color>
+    <color name="epg_event_layout_background_current">#1F3040</color>
+    <color name="epg_event_layout_text">#b7b7b7</color>
+    <color name="epg_time_bar">#88FFFFFF</color>
+    <color name="epg_event_layout_selected">#ff0061C0</color>
+    <color name="epg_event_layout_text_current">#FFFFFF</color>
+    <color name="epg_event_layout_background_time">#040404</color>
+</resources>
